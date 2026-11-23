@@ -1,5 +1,9 @@
 # The agent builds a game from one prompt
 
+[![make.fun](https://make.fun/badge/post-x-the-agent-builds-a-game-from-20261122-1709.svg)](https://make.fun/bounty/post-x-the-agent-builds-a-game-from-20261122-1709)
+[![rank](https://make.fun/badge/post-x-the-agent-builds-a-game-from-20261122-1709/OhhRayy/agent-builds-game-x/rank.svg)](https://make.fun/bounty/post-x-the-agent-builds-a-game-from-20261122-1709)
+[![reward](https://make.fun/badge/post-x-the-agent-builds-a-game-from-20261122-1709/OhhRayy/agent-builds-game-x/reward.svg)](https://make.fun/bounty/post-x-the-agent-builds-a-game-from-20261122-1709)
+
 Entry for the make.fun bounty
 **“The agent builds a game from one prompt”**
 (`post-x-the-agent-builds-a-game-from-20261122-1709`, $20, top 10 share).
@@ -37,8 +41,7 @@ Play it yourself: https://make.fun/r/9j4a5was
 makefun-dewdrop-squash-rose
 ```
 
-`POST.json` holds the post's address once it is up; it ships as a
-placeholder until then.
+`POST.json` holds the post's address: https://x.com/OhhRayy039/status/2124869135796715922
 
 ## The program
 
